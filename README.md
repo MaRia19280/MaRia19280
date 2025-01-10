@@ -1,16 +1,13 @@
-## Hi there 👋
+# 🌱 *Hi, I'm Maria Dimitra Roufail!* 👩‍💻
 
-<!--
-**MaRia19280/MaRia19280** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a *Data Analysis student* at MIT 🎓, based in *Greece* 🇬🇷. I'm passionate about learning new skills, expanding my knowledge, and using technology to solve real-world problems. Whether it's analyzing data, improving my coding abilities, or exploring new languages and cultures, I'm always on the lookout for new challenges. 🌍
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 *What I'm Currently Doing:*
+- 📚 *Studying* Data Analysis at MIT and constantly exploring new ways to analyze and visualize data.
+- 🌱 *Learning* *Turkish* and *Farsi* to broaden my linguistic skills and connect with more people around the world.
+- 🌿 *Gardening* is my therapy – there’s nothing like nurturing plants and watching them grow!
+- ✈ *Traveling* to new places to experience different cultures and meet amazing people.
+
+---
